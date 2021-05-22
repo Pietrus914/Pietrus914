@@ -1,8 +1,7 @@
 ![MOTYW GITHUB](https://user-images.githubusercontent.com/65807969/119228702-89c41080-bb14-11eb-853c-e9073ff0714f.PNG)
 
 ### Hi there 👋
-
-I am an M.Sc. in Wood Technology. Programming has become an inseparable part of my hobby which are cryptocurrencies and forex. I decided to change the industry a year ago and completed the Full Stack Developer course at Codecool. I chose Java as a specialization and I would like to develop in it.
+My name is Piotr. I am a master of wood technology by education. In March 2020, I made a decision that would transfer me from the world of wood to the world of computers. I am currently at the last stage of my studies on the Full Stack Developer course in Codecool. I found myself best in Java, but the frontend world also seems interesting to me. In addition to programming, which I spent most of my time on, I am also interested in the forex and cryptocurrencies. Feel free to contact me at any time 😉.
 
 <p float="left">
 <img height="40" src=https://user-images.githubusercontent.com/65807969/119230977-e9271e00-bb1e-11eb-9d99-13001f39d326.png>
@@ -20,17 +19,3 @@ I am an M.Sc. in Wood Technology. Programming has become an inseparable part of 
 ![Pietrus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pietrus914&theme=defoult_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pietrus914)
-<!--
-**Pietrus914/Pietrus914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
