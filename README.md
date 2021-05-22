@@ -1,13 +1,13 @@
 ![MOTYW GITHUB](https://user-images.githubusercontent.com/65807969/119228702-89c41080-bb14-11eb-853c-e9073ff0714f.PNG)
 
 ### Hi there 👋
-![Java_horizontal](https://user-images.githubusercontent.com/65807969/119229854-102f2100-bb1a-11eb-97e3-fddca255563c.png)
-![spring](https://user-images.githubusercontent.com/65807969/119229863-191ff280-bb1a-11eb-8032-7271b1cd290f.png)
-![angular](https://user-images.githubusercontent.com/65807969/119229873-21782d80-bb1a-11eb-944a-2833b3b025f8.png)
-![python](https://user-images.githubusercontent.com/65807969/119229879-2806a500-bb1a-11eb-99e8-4078d8ef0db9.jpg)
-![js](https://user-images.githubusercontent.com/65807969/119229882-2ccb5900-bb1a-11eb-92d3-b26ea7ded209.png)
-![postgres2](https://user-images.githubusercontent.com/65807969/119229884-305ee000-bb1a-11eb-8586-4133c5715927.png)
-![git](https://user-images.githubusercontent.com/65807969/119229886-3228a380-bb1a-11eb-8483-33bf428f5970.png)
+!height="20" [Java_horizontal](https://user-images.githubusercontent.com/65807969/119229854-102f2100-bb1a-11eb-97e3-fddca255563c.png)
+!height="20" [spring](https://user-images.githubusercontent.com/65807969/119229863-191ff280-bb1a-11eb-8032-7271b1cd290f.png)
+!height="20" [angular](https://user-images.githubusercontent.com/65807969/119229873-21782d80-bb1a-11eb-944a-2833b3b025f8.png)
+!height="20" [python](https://user-images.githubusercontent.com/65807969/119229879-2806a500-bb1a-11eb-99e8-4078d8ef0db9.jpg)
+!height="20" [js](https://user-images.githubusercontent.com/65807969/119229882-2ccb5900-bb1a-11eb-92d3-b26ea7ded209.png)
+!height="20" [postgres2](https://user-images.githubusercontent.com/65807969/119229884-305ee000-bb1a-11eb-8586-4133c5715927.png)
+!height="20" [git](https://user-images.githubusercontent.com/65807969/119229886-3228a380-bb1a-11eb-8483-33bf428f5970.png)
 
 
 
