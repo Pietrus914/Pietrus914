@@ -1,5 +1,7 @@
-### Hi there 👋
 <img src=C:\Users\Lenovo\Desktop\MOTYW GITHUB.PNG />
+
+### Hi there 👋
+
 <!--
 **Pietrus914/Pietrus914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
