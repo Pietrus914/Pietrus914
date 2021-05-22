@@ -1,8 +1,12 @@
 ![MOTYW GITHUB](https://user-images.githubusercontent.com/65807969/119228702-89c41080-bb14-11eb-853c-e9073ff0714f.PNG)
 
 ### Hi there 👋
-<img height="20"src="https://img.icons8.com/color/452/graphql.png">
-<img height="20"src="https://img.icons8.com/color/452/graphql.png">
+
+
+![java](https://user-images.githubusercontent.com/65807969/119229495-a3675700-bb18-11eb-924e-57232df43e28.png)
+![javascript](https://user-images.githubusercontent.com/65807969/119229513-af531900-bb18-11eb-8235-2eee5d58a6a1.png)
+
+
 ![Pietrus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pietrus914&theme=defoult_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pietrus914)
 <!--
