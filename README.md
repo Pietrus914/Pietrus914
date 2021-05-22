@@ -1,4 +1,4 @@
-<img src=C:\Users\Lenovo\Desktop\MOTYW GITHUB.PNG />
+![MOTYW GITHUB](https://user-images.githubusercontent.com/65807969/119228702-89c41080-bb14-11eb-853c-e9073ff0714f.PNG)
 
 ### Hi there 👋
 
