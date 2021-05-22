@@ -1,6 +1,9 @@
 ![MOTYW GITHUB](https://user-images.githubusercontent.com/65807969/119228702-89c41080-bb14-11eb-853c-e9073ff0714f.PNG)
 
 ### Hi there 👋
+
+I am an M.Sc. in Wood Technology. Programming has become an inseparable part of my hobby which are cryptocurrencies and forex. I decided to change the industry a year ago and completed the Full Stack Developer course at Codecool. I chose Java as a specialization and I would like to develop in it.
+
 <p float="left">
 <img height="40" src=https://user-images.githubusercontent.com/65807969/119230977-e9271e00-bb1e-11eb-9d99-13001f39d326.png>
 <img height="40" src=https://user-images.githubusercontent.com/65807969/119231061-386d4e80-bb1f-11eb-8f71-0f7576824d9b.png>
