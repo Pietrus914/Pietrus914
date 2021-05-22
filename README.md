@@ -1,6 +1,8 @@
 ![MOTYW GITHUB](https://user-images.githubusercontent.com/65807969/119228702-89c41080-bb14-11eb-853c-e9073ff0714f.PNG)
 
 ### Hi there 👋
+<img height="20"src="https://img.icons8.com/color/452/graphql.png">
+<img height="20"src="https://img.icons8.com/color/452/graphql.png">
 ![Pietrus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pietrus914&theme=defoult_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pietrus914)
 <!--
